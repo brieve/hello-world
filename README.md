@@ -1,2 +1,5 @@
 # hello-world
-Test repository, maybe gonna use this for lottie
+
+Greetings from Tempo!
+
+Let's try and make some animations!!
